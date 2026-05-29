@@ -9,7 +9,7 @@ Após um grave acidente em 2023 que desafiou meus limites físicos, canalizei mi
 
 ### ⚓ Minha Essência
 
-* **Liderança e Humanização:** Ex-Mestre de Cabotagem (Bacia de Campos - P-52), criador de espaços de bem-estar em ambientes críticos, líder da equipe de resgate em alto mar na Petrobras e antiga Ocyan.
+* **Liderança e Humanização:** Ex-Mestre de Cabotagem (Bacia de Campos - P-52), criador de espaços de bem-estar em ambientes críticos, líder da equipe de resgate em alto mar na Petrobras e Altera & Ocyan.
 * **Resiliência Antifrágil:** Superei traumas severos para me especializar em desenvolvimento de sistemas durante minha reabilitação.
 * **Engenharia com Empatia:** Desenvolvo software para resolver problemas reais e urgentes, como o **SOS Cheias**.
 
