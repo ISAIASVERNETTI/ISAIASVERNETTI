@@ -32,22 +32,7 @@ Para o desenvolvimento de soluções robustas, escaláveis e eficientes, utilizo
 Aplicativo humanitário de alto impacto projetado para gestão, comunicação rápida e suporte logístico em cenários críticos de enchentes.
 * **Destaques Técnicos:** Geolocalização em tempo real, consumo de APIs, persistência de dados e foco total na experiência do usuário sob condições extremas.
 * 
-<table align="center">
-  <tr>
-    <td align="center">
-      <p><b>Tela Inicial / Alertas</b></p>
-      <img src="https://raw.githubusercontent.com/ISAIASVERNETTI/sos_cheias_release_2/master/app/src/main/res/drawable/tela_home.png" width="220" alt="Tela Inicial">
-    </td>
-    <td align="center">
-      <p><b>Nível do Arroio / Indicador de Inundação</b></p>
-      <img src="https://raw.githubusercontent.com/ISAIASVERNETTI/sos_cheias_release_2/master/app/src/main/res/drawable/tela_mapa.png" width="220" alt="Nível do Arroio e Indicador de Inundação">
-    </td>
-    <td align="center">
-      <p><b>Pedido de Socorro</b></p>
-      <img src="https://raw.githubusercontent.com/ISAIASVERNETTI/sos_cheias_release_2/master/app/src/main/res/drawable/tela_pedido_socorro.png" width="220" alt="Formulário de Ajuda">
-    </td>
-  </tr>
-</table>
+
 ---
 ---
 
