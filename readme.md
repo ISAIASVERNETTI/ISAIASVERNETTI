@@ -95,7 +95,22 @@ To build robust, scalable, and efficient solutions, I leverage the following eco
 #### 📌 [SOS Cheias](https://github.com/ISAIASVERNETTI/sos_cheias)
 A high-impact humanitarian application designed for crisis management, rapid communication, and logistical support during severe flood emergencies.
 * **Technical Highlights:** Real-time geolocation, API integration, data persistence, and a strict focus on user experience under extreme conditions.
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><b>Tela Inicial / Alertas</b></p>
+      <img src="./tela_home.png" width="220" alt="Tela Inicial">
+    </td>
+    <td align="center">
+      <p><b>Nível do Arroio / Indicador de Inundação</b></p>
+      <img src="./tela_mapa.png" width="220" alt="Nível do Arroio e Indicador de Inundação">
+    </td>
+    <td align="center">
+      <p><b>Pedido de Socorro</b></p>
+      <img src="./tela_pedido_socorro.png" width="220" alt="Formulário de Ajuda">
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 Connect with Me
