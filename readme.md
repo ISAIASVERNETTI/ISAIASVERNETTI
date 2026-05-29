@@ -41,3 +41,50 @@ Sinta-se à vontade para entrar em contato para colaborações em projetos de im
 * 💼 **LinkedIn:** [isaias-vernetti-da-silva-a38b0341](https://www.linkedin.com/in/isaias-vernetti-da-silva-a38b0341/)
 * 📧 **E-mail:** [isaiasmcb@gmail.com](mailto:isaiasmcb@gmail.com)
 * 🎥 **YouTube:** [Canal Isaías Vernetti da Silva](https://www.youtube.com/@isaiasvernettidasilva185)
+
+
+
+---
+
+# Hi, I'm Isaías Vernetti da Silva 👋 🚀
+
+**Software Engineer | Social Impact Solutions Specialist**
+
+From Bosun (Mestre de Cabotagem) on offshore oil platforms to Software Engineering, my journey is driven by resilience and purpose. Following a severe accident in 2023 that challenged my physical limits, I channeled my energy into technology, transforming lines of code into survival tools.
+
+---
+
+### ⚓ My Core Values
+
+* **Leadership & Humanization:** Former Bosun (Bacia de Campos - P-52), creator of well-being spaces in critical environments, and offshore rescue team leader at Petrobras and Ocyan.
+* **Antifragile Resilience:** Overcame severe trauma to specialize in systems development during my rehabilitation process.
+* **Engineering with Empathy:** I develop software to solve real and urgent problems, such as the **SOS Cheias** ecosystem.
+
+---
+
+### 🛠️ Tech Stack
+
+To build robust, scalable, and efficient solutions, I leverage the following ecosystem of tools:
+
+* **Languages & Mobile:** Java, Android SDK
+* **Backend & Cloud:** Firebase, REST APIs Integration
+* **Artificial Intelligence:** AI implementation and integration
+* **Version Control:** Git / GitHub
+
+---
+
+### 🏆 Featured Projects
+
+#### 📌 [SOS Cheias](https://github.com/ISAIASVERNETTI/sos_cheias)
+A high-impact humanitarian application designed for crisis management, rapid communication, and logistical support during severe flood emergencies.
+* **Technical Highlights:** Real-time geolocation, API integration, data persistence, and a strict focus on user experience under extreme conditions.
+
+---
+
+### 📫 Connect with Me
+
+Feel free to reach out for collaboration on high-impact projects or software engineering opportunities:
+
+* 💼 **LinkedIn:** [isaias-vernetti-da-silva-a38b0341](https://www.linkedin.com/in/isaias-vernetti-da-silva-a38b0341/)
+* 📧 **E-mail:** [isaiasmcb@gmail.com](mailto:isaiasmcb@gmail.com)
+* 🎥 **YouTube:** [Isaías Vernetti da Silva Channel](https://www.youtube.com/@isaiasvernettidasilva185)
