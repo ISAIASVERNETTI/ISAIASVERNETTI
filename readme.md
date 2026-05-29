@@ -49,7 +49,6 @@ Aplicativo humanitário de alto impacto projetado para gestão, comunicação r�
   </tr>
 </table>
 
-
 ---
 ---
 
